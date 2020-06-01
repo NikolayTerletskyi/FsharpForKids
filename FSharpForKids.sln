@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpForKids", "FSharpForKids\FSharpForKids.fsproj", "{1D773E5D-AE09-42E5-9E9C-F11D2B4941F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D773E5D-AE09-42E5-9E9C-F11D2B4941F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D773E5D-AE09-42E5-9E9C-F11D2B4941F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D773E5D-AE09-42E5-9E9C-F11D2B4941F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D773E5D-AE09-42E5-9E9C-F11D2B4941F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F340C52C-BAA9-4B91-9BB3-1EE34E643D60}
+	EndGlobalSection
+EndGlobal
